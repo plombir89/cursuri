@@ -20,8 +20,8 @@
     <meta property="og:url" content="https://cursuricalculator.md/ro">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
-    <meta name="twitter:description" content="Descrierea paginii">
+    <meta name="twitter:title" content="Cursuri calculator pentru incepatori">
+    <meta name="twitter:description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
     <meta name="twitter:image" content="{{ asset('assets/img/training-3.jpg') }}">
 
     <meta name="robots" content="index, follow">

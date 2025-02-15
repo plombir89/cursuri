@@ -15,7 +15,7 @@
     <meta property="og:title" content="Курсы компьютера для начинающих">
     <meta property="og:description" content="Быстро освоите компьютер с нашими курсами для начинающих! Практические уроки, простые объяснения, подходящие для любого возраста.">
     <meta property="og:image" content="{{ asset('assets/img/training-3.jpg') }}">
-    <meta property="og:url" content="https://cursuricalculator.md/ro">
+    <meta property="og:url" content="https://cursuricalculator.md/ru">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Курсы компьютера для начинающих">
