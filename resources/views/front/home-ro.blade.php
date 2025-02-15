@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Cursuri calculator pentru incepatori</title>
+    <title>Cursuri calculator pentru începători</title>
     <meta name="description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă." >
-    <meta name="keywords" content="cursuri calculator, cursuri calculator orice vârstă, Lecții practice, abilități digitale" >
+    <meta name="keywords" content="cursuri calculator, cursuri calculator orice vârstă, Lecții practice, abilități digitale, moldova, chisinau" >
 
     <link rel="canonical" href="https://cursuricalculator.md/ro">
 
@@ -14,13 +14,13 @@
 
     <link rel="alternate" hreflang="x-default" href="https://cursuricalculator.md/ro" />
 
-    <meta property="og:title" content="Cursuri calculator pentru incepatori">
+    <meta property="og:title" content="Cursuri calculator pentru începători">
     <meta property="og:description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
     <meta property="og:image" content="{{ asset('assets/img/training-3.jpg') }}">
     <meta property="og:url" content="https://cursuricalculator.md/ro">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Cursuri calculator pentru incepatori">
+    <meta name="twitter:title" content="Cursuri calculator pentru începători">
     <meta name="twitter:description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
     <meta name="twitter:image" content="{{ asset('assets/img/training-3.jpg') }}">
 
