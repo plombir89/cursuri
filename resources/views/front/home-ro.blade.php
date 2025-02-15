@@ -97,7 +97,7 @@
 <!-- Begin Hero -->
 <section id="hero" class="d-flex align-items-center">
     <div class="container">
-        <h1>Cursuri calculator pentru incepatori</h1>
+        <h1>Cursuri calculator pentru începători</h1>
         <h2>Un mediu de studiu perfect pentru viitorul tău</h2>
         <div class="my-3">
             <a href="#about" class="appointment-btn scrollto text-decoration-none me-2 me-sm-5">Despre cursuri</a>
@@ -115,7 +115,7 @@
                     <div class="content">
                         <h3 class="text-center">Cursuri PC pentru începători!</h3>
                         <p>
-                            Noi propunem pentru cei ce nu cunosc calculatorul (PC) să descopere noile experiențe alături de noi, astfel veți putea deveni un utilizator adevărat de calculator, descoperind multe funcții utile, sincronizarea cu telefonul, email, youtube, google și multe alte programe ce real sunt necesare și utile în viața contemporană.
+                            Noi propunem cursuri de calculator pentru începători celor care nu cunosc PC-ul, oferindu-le oportunitatea de a descoperi noi experiențe alături de noi. Astfel, veți putea deveni un adevărat utilizator de calculator, explorând funcții utile, sincronizarea cu telefonul, utilizarea emailului, YouTube, Google și multe alte programe esențiale și practice în viața contemporană.
                         </p>
                         <div class="text-center">
                             <a href="#services" class="more-btn alert-darkappointment-btn scrollto text-decoration-none">Citește</a>
