@@ -96,7 +96,7 @@
 <section id="hero" class="d-flex align-items-center">
     <div class="container">
         <h1>Курсы компьютера для начинающих</h1>
-        <h2>A perfect study environment for your future</h2>
+        <h2>Идеальная учебная среда для вашего будущего</h2>
         <div class="my-3">
             <a href="#about" class="appointment-btn scrollto text-decoration-none me-2 me-sm-5">О курсах</a>
             <a href="#about" class="appointment-btn text-decoration-none" data-bs-toggle="modal" data-bs-target="#formModal" data-bs-whatever="Book me"> Регистрация</a>
