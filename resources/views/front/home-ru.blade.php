@@ -48,7 +48,7 @@
         <div class="social-links">
             @foreach(config('app.socials') as $social)
                 @if($social['published'])
-                    <a href="{{ $social['url'] }}" target="_blank" rel="nofollow" class="text-decoration-none {{ $social['icon'] }}"><i class="icofont-{{ $social['icon'] }}"></i></a>
+                    <a href="{{ $social['url'] }}" target="_blank" class="text-decoration-none {{ $social['icon'] }}"><i class="icofont-{{ $social['icon'] }}"></i></a>
                 @endif
             @endforeach
         </div>

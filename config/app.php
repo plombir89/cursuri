@@ -128,12 +128,12 @@ return [
     'socials' => [
         'facebook' => [
             'icon' => 'facebook',
-            'url' => '#',
+            'url' => 'https://www.facebook.com/',
             'published' => true,
         ],
         'instagram' => [
             'icon' => 'instagram',
-            'url' => '#',
+            'url' => 'https://www.instagram.com/',
             'published' => true,
         ]
     ]
