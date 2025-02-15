@@ -62,7 +62,7 @@
             <div class="d-flex flex-column flex-md-row align-items-center">
                 <h2 class="logo me-auto">
                     <a href="/ru" class="logo me-4 text-decoration-none">
-                        <img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid">National Academy</a></h2>
+                        <img src="{{ asset('assets/img/logo.png') }}" alt="Курсы компьютера для начинающих" class="img-fluid">National Academy</a></h2>
                 <div>
                     <a href="/ro" class="appointment-btn  text-decoration-none m-0" >Română</a></div>
             </div>

@@ -64,7 +64,7 @@
             <div class="d-flex flex-column flex-md-row align-items-center">
                 <h2 class="logo me-auto">
                     <a href="/ro" class="logo me-4 text-decoration-none">
-                        <img src="{{ asset('assets/img/logo.png') }}" alt="" class="img-fluid">National Academy</a></h2>
+                        <img src="{{ asset('assets/img/logo.png') }}" alt="Curs calculator incepatori" class="img-fluid">Curs calculator</a></h2>
                 <div><a href="/ru" class="appointment-btn  text-decoration-none m-0">Русский</a></div>
             </div>
         </div>
