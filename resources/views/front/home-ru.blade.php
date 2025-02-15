@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Курсы компьютера для начинающих</title>
-    <meta name="description" content="Tempalte for use as a landing or home page in a website study academy" >
-    <meta name="keywords" content="training, learning, marketing" >
+    <meta name="description" content="Быстро освоите компьютер с нашими курсами для начинающих! Практические уроки, простые объяснения, подходящие для любого возраста." >
+    <meta name="keywords" content="курсы для начинающих, Практические уроки компьютера, компьютерные уроки для любого возраста" >
 
     <link rel="canonical" href="https://cursuricalculator.md/ru">
 
@@ -13,14 +13,14 @@
     <link rel="alternate" hreflang="ro" href="https://cursuricalculator.md/ro">
 
     <meta property="og:title" content="Курсы компьютера для начинающих">
-    <meta property="og:description" content="Descrierea paginii">
-    <meta property="og:image" content="https://cursuricalculator.md/imagini/preview.jpg">
+    <meta property="og:description" content="Быстро освоите компьютер с нашими курсами для начинающих! Практические уроки, простые объяснения, подходящие для любого возраста.">
+    <meta property="og:image" content="{{ asset('assets/img/training-3.jpg') }}">
     <meta property="og:url" content="https://cursuricalculator.md/ro">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Курсы компьютера для начинающих">
-    <meta name="twitter:description" content="Descrierea paginii">
-    <meta name="twitter:image" content="https://cursuricalculator.md/imagini/preview.jpg">
+    <meta name="twitter:description" content="Быстро освоите компьютер с нашими курсами для начинающих! Практические уроки, простые объяснения, подходящие для любого возраста.">
+    <meta name="twitter:image" content="{{ asset('assets/img/training-3.jpg') }}">
 
     <meta name="robots" content="index, follow">
 

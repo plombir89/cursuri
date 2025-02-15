@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Cursuri calculator pentru incepatori</title>
-    <meta name="description" content="Tempalte for use as a landing or home page in a website study academy" >
-    <meta name="keywords" content="training, learning, marketing" >
+    <meta name="description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă." >
+    <meta name="keywords" content="cursuri calculator, cursuri calculator orice vârstă, Lecții practice, abilități digitale" >
 
     <link rel="canonical" href="https://cursuricalculator.md/ro">
 
@@ -15,14 +15,14 @@
     <link rel="alternate" hreflang="x-default" href="https://cursuricalculator.md/ro" />
 
     <meta property="og:title" content="Cursuri calculator pentru incepatori">
-    <meta property="og:description" content="Descrierea paginii">
-    <meta property="og:image" content="https://cursuricalculator.md/imagini/preview.jpg">
+    <meta property="og:description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
+    <meta property="og:image" content="{{ asset('assets/img/training-3.jpg') }}">
     <meta property="og:url" content="https://cursuricalculator.md/ro">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Cursuri calculator pentru incepatori">
+    <meta name="twitter:title" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
     <meta name="twitter:description" content="Descrierea paginii">
-    <meta name="twitter:image" content="https://cursuricalculator.md/imagini/preview.jpg">
+    <meta name="twitter:image" content="{{ asset('assets/img/training-3.jpg') }}">
 
     <meta name="robots" content="index, follow">
 
