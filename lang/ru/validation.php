@@ -1,0 +1,76 @@
+<?php
+
+return [
+
+    'accepted' => 'Поле :attribute должно быть принято.',
+    'accepted_if' => 'Поле :attribute должно быть принято, если :other равно :value.',
+    'active_url' => 'Поле :attribute должно быть действительным URL.',
+    'after' => 'Поле :attribute должно быть датой после :date.',
+    'after_or_equal' => 'Поле :attribute должно быть датой после или равной :date.',
+    'alpha' => 'Поле :attribute должно содержать только буквы.',
+    'alpha_dash' => 'Поле :attribute может содержать только буквы, цифры, дефисы и подчеркивания.',
+    'alpha_num' => 'Поле :attribute может содержать только буквы и цифры.',
+    'array' => 'Поле :attribute должно быть массивом.',
+    'ascii' => 'Поле :attribute должно содержать только однобайтовые буквенно-цифровые символы и символы.',
+    'before' => 'Поле :attribute должно быть датой до :date.',
+    'before_or_equal' => 'Поле :attribute должно быть датой до или равной :date.',
+    'between' => [
+        'array' => 'Поле :attribute должно содержать от :min до :max элементов.',
+        'file' => 'Поле :attribute должно быть от :min до :max килобайт.',
+        'numeric' => 'Поле :attribute должно быть от :min до :max.',
+        'string' => 'Поле :attribute должно содержать от :min до :max символов.',
+    ],
+    'boolean' => 'Поле :attribute должно быть истинным или ложным.',
+    'confirmed' => 'Подтверждение поля :attribute не совпадает.',
+    'date' => 'Поле :attribute должно быть действительной датой.',
+    'date_equals' => 'Поле :attribute должно быть датой, равной :date.',
+    'date_format' => 'Поле :attribute должно соответствовать формату :format.',
+    'different' => 'Поле :attribute и :other должны отличаться.',
+    'digits' => 'Поле :attribute должно содержать :digits цифр.',
+    'digits_between' => 'Поле :attribute должно содержать от :min до :max цифр.',
+    'email' => 'Поле :attribute должно быть действительным адресом электронной почты.',
+    'exists' => 'Выбранное значение для :attribute недействительно.',
+    'file' => 'Поле :attribute должно быть файлом.',
+    'filled' => 'Поле :attribute должно иметь значение.',
+    'image' => 'Поле :attribute должно быть изображением.',
+    'integer' => 'Поле :attribute должно быть целым числом.',
+    'max' => [
+        'array' => 'Поле :attribute не должно содержать более :max элементов.',
+        'file' => 'Поле :attribute не должно превышать :max килобайт.',
+        'numeric' => 'Поле :attribute не должно быть больше :max.',
+        'string' => 'Поле :attribute не должно содержать более :max символов.',
+    ],
+    'min' => [
+        'array' => 'Поле :attribute должно содержать не менее :min элементов.',
+        'file' => 'Поле :attribute должно быть не менее :min килобайт.',
+        'numeric' => 'Поле :attribute должно быть не менее :min.',
+        'string' => 'Поле :attribute должно содержать не менее :min символов.',
+    ],
+    'numeric' => 'Поле :attribute должно быть числом.',
+    'required' => 'Поле :attribute обязательно для заполнения.',
+    'same' => 'Поле :attribute должно совпадать с :other.',
+    'size' => [
+        'array' => 'Поле :attribute должно содержать :size элементов.',
+        'file' => 'Поле :attribute должно быть размером :size килобайт.',
+        'numeric' => 'Поле :attribute должно быть равно :size.',
+        'string' => 'Поле :attribute должно содержать :size символов.',
+    ],
+    'string' => 'Поле :attribute должно быть строкой.',
+    'unique' => 'Значение поля :attribute уже используется.',
+    'url' => 'Поле :attribute должно быть действительным URL.',
+    'uuid' => 'Поле :attribute должно быть действительным UUID.',
+    'phone' => ':attribute должен быть действительным',
+
+    'custom' => [
+        'attribute-name' => [
+            'rule-name' => 'custom-message',
+        ],
+    ],
+
+    'attributes' => [
+        'name' => 'Имя, Фамилия',
+        'email' => 'E-mail',
+        'phone' => 'Телефон',
+        'message' => 'Сообщение',
+    ],
+];
