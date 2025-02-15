@@ -100,7 +100,7 @@
         <h2>Идеальная учебная среда для вашего будущего</h2>
         <div class="my-3">
             <a href="#about" class="appointment-btn scrollto text-decoration-none me-2 me-sm-5">О курсах</a>
-            <a href="#about" class="appointment-btn text-decoration-none" data-bs-toggle="modal" data-bs-target="#formModal" data-bs-whatever="Book me"> Регистрация</a>
+            <a href="#about" class="appointment-btn text-decoration-none" data-bs-toggle="modal" data-bs-target="#formModal" data-bs-whatever="Book me"> Регистрация на курс</a>
         </div>
     </div>
 </section><!-- End Hero -->
