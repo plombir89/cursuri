@@ -289,7 +289,7 @@
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                     <div class="icon-box">
                         <div class="icon"><i class="icofont-teacher"></i></div>
-                        <h4><a href="#" class="text-decoration-none">Consultații Online</a></h4>
+                        <h4><a href="#" class="text-decoration-none">Consultări Online</a></h4>
                         <p>Consultații la distanță pentru a reîmprospăta cunoștințele sau de a primi răspuns și rezolva o întrebare la calculator!</p>
                     </div>
                 </div>
