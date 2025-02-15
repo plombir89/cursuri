@@ -9,6 +9,7 @@
 
     <link rel="canonical" href="https://cursuricalculator.md/ru">
 
+    <link rel="alternate" hreflang="ru" href="https://cursuricalculator.md/ru">
     <link rel="alternate" hreflang="ro" href="https://cursuricalculator.md/ro">
 
     <meta property="og:title" content="Курсы компьютера для начинающих">
