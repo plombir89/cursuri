@@ -808,7 +808,7 @@ section {
     }
 .about{
    padding:20px;
- }   
+ }
 }
 
 /*--------------------------------------------------------------
@@ -1255,7 +1255,7 @@ Courses
   left: -45px;
 }
 
-.testimonials .testimonial-item h3 {
+.testimonials .testimonial-item span {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 0;

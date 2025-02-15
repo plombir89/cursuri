@@ -418,7 +418,7 @@
 
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <h3>Maria Popescu</h3>
+                        <span>Maria Popescu</span>
                         <p>
                             <i class="icofont-quote-left quote-icon-left"></i>
                             Acest curs de calculator pentru începători mi-a schimbat complet perspectiva! Nu știam aproape nimic despre utilizarea unui computer, dar lecțiile au fost explicate clar și pe înțelesul meu. Acum pot naviga pe internet, trimite e-mailuri și lucra în Microsoft Word fără probleme. Recomand cu drag acest curs tuturor celor care vor să învețe!
@@ -429,7 +429,7 @@
 
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <h3>Ion Rusu</h3>
+                        <span>Ion Rusu</span>
                         <p>
                             <i class="icofont-quote-left quote-icon-left"></i>
                             Nu credeam că voi putea învăța să folosesc un calculator la vârsta mea, dar datorită acestui curs am prins curaj. Instructorii au fost foarte răbdători și explicațiile lor au fost foarte clare. Am învățat să folosesc Excel, să creez documente și să caut informații pe internet. Un curs excelent pentru oricine!
@@ -440,7 +440,7 @@
 
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <h3>Elena Dumitru</h3>
+                        <span>Elena Dumitru</span>
                         <p>
                             <i class="icofont-quote-left quote-icon-left"></i>
                             Un curs bine structurat, cu multe exemple practice! La început mi se părea complicat, dar exercițiile pas cu pas m-au ajutat să înțeleg mai bine totul. Acum mă descurc fără probleme să folosesc un calculator pentru muncă și activități personale. Mulțumesc echipei pentru sprijin și profesionalism!
@@ -451,7 +451,7 @@
 
                 <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                        <h3>Vasile Andrei</h3>
+                        <span>Vasile Andrei</span>
                         <p>
                             <i class="icofont-quote-left quote-icon-left"></i>
                             Recomand acest curs tuturor celor care vor să învețe bazele utilizării calculatorului! Profesorii au fost foarte implicați, explicațiile clare și atmosfera plăcută. Acum pot folosi internetul, edita documente și chiar organiza fișierele în calculator fără probleme. A fost o experiență foarte utilă!
