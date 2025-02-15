@@ -46,7 +46,7 @@ Route::post('register-user', function (Request $request){
 
     Registration::create($validated);
 
-    defer(fn () => Mail::to('test@mail.com')->send(new \App\Mail\NewCourseRequest($validated)));
+    defer(fn () => Mail::to(config('mail.from.address'))->send(new \App\Mail\NewCourseRequest($validated)));
 
     return response()->json(__('form.success'), 200);
 });
