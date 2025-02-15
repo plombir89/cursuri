@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /ro
+Allow: /ru
+Disallow: /
