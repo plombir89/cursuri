@@ -24,6 +24,20 @@
     <meta name="twitter:description" content="Însușește-ți rapid abilități digitale cu cursurile noastre de calculator pentru începători! Lecții practice, explicate simplu, pentru orice vârstă.">
     <meta name="twitter:image" content="{{ asset('assets/img/training-3.jpg') }}">
 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Cursuri calculator pentru începători",
+      "description": "Învățați rapid să folosiți calculatorul cu ajutorul cursurilor noastre dedicate începătorilor.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Școala IT",
+        "url": "https://cursuricalculator.md/ro"
+      }
+    }
+    </script>
+
     <meta name="robots" content="index, follow">
 
     <!-- Favicons -->
@@ -64,8 +78,12 @@
             <div class="d-flex flex-column flex-md-row align-items-center">
                 <h2 class="logo me-auto">
                     <a href="/ro" class="logo me-4 text-decoration-none">
-                        <img src="{{ asset('assets/img/logo.png') }}" alt="Curs calculator incepatori" class="img-fluid">Curs calculator</a></h2>
-                <div><a href="/ru" class="appointment-btn  text-decoration-none m-0">Русский</a></div>
+                        <img src="{{ asset('assets/img/logo.png') }}" alt="Curs calculator incepatori" class="img-fluid">
+                    </a>
+                </h2>
+                <div>
+                    <a href="/ru" class="appointment-btn  text-decoration-none m-0">Русский</a>
+                </div>
             </div>
         </div>
         <div class="col-1 col-lg-5">

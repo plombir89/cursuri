@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 70px;
 }
 
 #header .appointment-btn:hover, #about .appointment-btn:hover{
@@ -1667,5 +1667,11 @@ z-index: 10000
   background: #1c84e3;
   color: #fff;
   text-decoration: none;
+}
+@media (min-width: 576px) {
+    #navBar{
+        padding-right: 4.5rem !important;
+        padding-left: 4.5rem !important;
+    }
 }
 

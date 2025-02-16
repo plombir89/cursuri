@@ -135,6 +135,11 @@ return [
             'icon' => 'instagram',
             'url' => 'https://www.instagram.com/',
             'published' => true,
+        ],
+        'twitter' => [
+            'icon' => 'twitter',
+            'url' => 'https://www.twitter.com/',
+            'published' => true,
         ]
     ]
 ];

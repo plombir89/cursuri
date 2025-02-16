@@ -22,6 +22,20 @@
     <meta name="twitter:description" content="Быстро освоите компьютер с нашими курсами для начинающих! Практические уроки, простые объяснения, подходящие для любого возраста.">
     <meta name="twitter:image" content="{{ asset('assets/img/training-3.jpg') }}">
 
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Course",
+      "name": "Курсы компьютера для начинающих",
+      "description": "Быстро освоите компьютер с нашими курсами для начинающих! Практические уроки, простые объяснения, подходящие для любого возраста.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Școala IT",
+        "url": "https://cursuricalculator.md/ru"
+      }
+    }
+    </script>
+
     <meta name="robots" content="index, follow">
 
     <!-- Favicons -->
@@ -62,9 +76,12 @@
             <div class="d-flex flex-column flex-md-row align-items-center">
                 <h2 class="logo me-auto">
                     <a href="/ru" class="logo me-4 text-decoration-none">
-                        <img src="{{ asset('assets/img/logo.png') }}" alt="Курсы компьютера для начинающих" class="img-fluid">National Academy</a></h2>
+                        <img src="{{ asset('assets/img/logo.png') }}" alt="Курсы компьютера для начинающих" class="img-fluid">
+                    </a>
+                </h2>
                 <div>
-                    <a href="/ro" class="appointment-btn  text-decoration-none m-0" >Română</a></div>
+                    <a href="/ro" class="appointment-btn  text-decoration-none m-0" >Română</a>
+                </div>
             </div>
         </div>
         <div class="col-1 col-lg-5">
